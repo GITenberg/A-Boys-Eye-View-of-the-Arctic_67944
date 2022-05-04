@@ -1,0 +1,32 @@
+_repo: A-Boys-Eye-View-of-the-Arctic_67944
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: MacMillan, Donald B.
+    gutenberg_agent_id: '54547'
+    url: http://www.gutenberg.org/2009/agents/54547
+creator:
+  author:
+    agent_name: Rawson, Kennett Longley
+    gutenberg_agent_id: '54546'
+    url: http://www.gutenberg.org/2009/agents/54546
+description: ''
+gutenberg_issued: '2022-04-28'
+identifiers:
+  gutenberg: '67944'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015062202901
+pgterms:marc905: 20220119053517rawson
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :The MacMillan Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Boy’s-Eye View of the Arctic
+url: http://www.gutenberg.org/ebooks/67944
